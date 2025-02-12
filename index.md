@@ -1,4 +1,4 @@
 ---
-title: NOSOLO: Copenhagen-Denmark
+title: NOSOLO Copenhagen-Denmark
 ---
 
